@@ -11,14 +11,9 @@ This project implements a Snake game with reinforcement learning capabilities. I
 - **Reinforcement Learning**: Uses PyTorch to implement a neural network that learns optimal game strategies
 - **Model Saving**: Automatically saves models at score milestones and keeps track of the best model
 
-## Gameplay Demo
-
-## 🎥 Demo
-| Input                | Output                | Input                | Output                |
-|----------------------|-----------------------|----------------------|-----------------------|
-|<img src="[examples/image/anime1.png](https://github.com/jixiaozhong/Sonic/blob/main/examples/image/anime1.png?raw=true)" width="360">|<video src="https://github.com/user-attachments/assets/cbad6049-1580-4bc7-af9d-12bfdfbb92e8" width="360" controls> </video>|<img src="[[examples/image/female_diaosu.png](https://github.com/jixiaozhong/Sonic/blob/main/examples/image/anime1.png?raw=true)](https://github.com/jixiaozhong/Sonic/blob/main/examples/image/anime1.png?raw=true)" width="360">|<video src="https://github.com/user-attachments/assets/1923b158-10db-4e2a-a5cb-7b36227ba9db" width="360" controls> </video>|
-|<img src="[examples/image/hair.png](https://github.com/jixiaozhong/Sonic/blob/main/examples/image/anime1.png?raw=true)" width="360">|<video src="https://github.com/user-attachments/assets/dcb755c1-de01-4afe-8b4f-0e0b2c2439c1" width="360" controls> </video>|<img src="[examples/image/leonnado.jpg](https://github.com/jixiaozhong/Sonic/blob/main/examples/image/anime1.png?raw=true)" width="360">|<video src="https://github.com/user-attachments/assets/b50e61bb-62d4-469d-b402-b37cda3fbd27" width="360" controls> </video>|
-
+## Demo
+<video src="https://github.com/user-attachments/assets/cbad6049-1580-4bc7-af9d-12bfdfbb92e8" width="360" controls> </video>
+<video src="https://github.com/user-attachments/assets/1923b158-10db-4e2a-a5cb-7b36227ba9db" width="360" controls> </video>|
 
 ## Requirements
 

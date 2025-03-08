@@ -15,13 +15,13 @@ This project implements a Snake game with reinforcement learning capabilities. I
 
 ### Training
 <video width="600" controls>
-  <source src="samples/train.mp4" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/cbad6049-1580-4bc7-af9d-12bfdfbb92e8" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 ### Playing
 <video width="600" controls>
-  <source src="samples/play.mp4" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/1923b158-10db-4e2a-a5cb-7b36227ba9db" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

@@ -11,9 +11,11 @@ This project implements a Snake game with reinforcement learning capabilities. I
 - **Reinforcement Learning**: Uses PyTorch to implement a neural network that learns optimal game strategies
 - **Model Saving**: Automatically saves models at score milestones and keeps track of the best model
 
-## Demo
-<video src="https://github.com/user-attachments/assets/cbad6049-1580-4bc7-af9d-12bfdfbb92e8" width="360" controls> </video>
+## Training Demo
 <video src="https://github.com/user-attachments/assets/1923b158-10db-4e2a-a5cb-7b36227ba9db" width="360" controls> </video>|
+
+## AI Versus Human Demo
+<video src="https://github.com/user-attachments/assets/cbad6049-1580-4bc7-af9d-12bfdfbb92e8" width="360" controls> </video>
 
 ## Requirements
 
